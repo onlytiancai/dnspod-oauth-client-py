@@ -8,3 +8,6 @@
 1. 在src目录下运行python appmain.py 0.0.0.0:8888
 1. 浏览器打开http://localhost:8888，就可以使用DNSPod账户登录并获取到用户昵称了。
 
+### 姊妹应用
+
+1. [DNSPod oAuth Client SDK for PHP](https://github.com/yizero/dnspod-oauth-client)
