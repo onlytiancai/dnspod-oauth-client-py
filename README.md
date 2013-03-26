@@ -1,6 +1,6 @@
 ## DNSPod oAuth Client SDK for python
 
-本项目提供了DNSPoc oAuth客户端的Python SDK，并有一个web.py使用该SDK的例子。
+本项目提供了DNSPod oAuth客户端的Python SDK，并有一个web.py使用该SDK的例子。
 
 ### 如何测试
 
